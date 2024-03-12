@@ -34,5 +34,5 @@
 </p>
 
 <h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/mahfujulhuq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahfujulhuq" /></a></p><br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz0001&label=Profile%20views&color=0e75b6&style=flat" alt="mahfuz0001" /> </p>
+<p><a href="https://www.buymeacoffee.com/mahfujulhuq"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahfujulhuq" /></a></p><br/><br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz0001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mahfuz0001" /> </p>
