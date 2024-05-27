@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm fuzious</h1>
 
+- 🔭 I’m currently working on [Onyxium](https://onyxium.live/)
+
+- 👨‍💻 All of my projects are available at [my portfolio](https://mahfuz.live)
+
+- 📫 How to reach me **mahfujulhuq07@gmail.com**
+
+- ⚡ Fun fact **there is 27h in a day**
+
 <h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz0001&layout=compact&theme=dark" alt=mahfuz0001 />
 
