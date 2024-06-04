@@ -42,4 +42,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahfuz0001&" alt="mahfuz0001" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahfuz0001&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="mahfuz0001" /> </p>
-[![wakatime](https://wakatime.com/badge/user/2f0f1fb4-ab90-4242-827e-2fc4f87b6b6f.svg)](https://wakatime.com/@2f0f1fb4-ab90-4242-827e-2fc4f87b6b6f)
+<a href="https://wakatime.com/@2f0f1fb4-ab90-4242-827e-2fc4f87b6b6f?style=for-the-badge"><img src="https://wakatime.com/badge/user/2f0f1fb4-ab90-4242-827e-2fc4f87b6b6f.svg?style=for-the-badge" alt="Total time coded since Sep 9 2022" /></a>
