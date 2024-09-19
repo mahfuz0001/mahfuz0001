@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm fuzious</h1>
 
-- 🔭 I’m currently working on [Onyxium](https://onyxium.live/)
+- 🔭 I’m currently working on [Onyxium](https://onyxium.org)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mahfuz.live)
 
