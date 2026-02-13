@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm fuzious</h1>
 
-- 🔭 I’m currently working on [Alvo](https://alvo.nexonlabs.uk)
+- 🔭 I’m currently working on [DevDuel](https://devduel-zuz.vercel.app)
 
 - 👨‍💻 All of my projects are available at [my portfolio](https://mahfuz.live)
 
